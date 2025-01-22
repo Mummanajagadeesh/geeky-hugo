@@ -1,21 +1,21 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/profile.png"
+favicon = "/images/profile.png"
 # logo
-logo = "images/logo.png"
+logo = "/images/logo.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
 logo_width = "150x"
 # logo text will only show when logo is missing.
-logo_text = "blogs"
+logo_text = "Geeky"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Jagadeesh Mummana"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "/images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "Visakhapatnam, AP, IND"
+address = "9567 Turner Trace Apt. BC C3G8A4"
 mobile = "+211234565523"
 email = "mummanajagadeesh@gmail.com"
 # contact form action
@@ -56,18 +56,18 @@ error_404_button = "Back To Home"
 # Preloader
 [preloader]
 enable = true
-preloader = "images/rick.jpg" # use jpg, png, svg or gif format.
+preloader = "/images/banner.png" # use jpg, png, svg or gif format.
 
 # Banner
 [banner]
 enable = true
 title_large = "Welcome **!**"
 title_small = "to MY Blog"
-image = "images/banner.png"
+image = "/images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Hey, I’m **_Jagadeesh_**. Welcome to my corner of the internet, where thoughts wander and stories unfold."
 button_label = "Know About Me"
-button_link = "about/"
+button_link = "/about/"
 
 
 # cookies
