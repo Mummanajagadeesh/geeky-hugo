@@ -7,7 +7,7 @@ logo = "images/logo.png"
 # Note: logo_width is not work with .svg file
 logo_width = "150x"
 # logo text will only show when logo is missing.
-logo_text = "Geeky"
+logo_text = "blogs"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
@@ -15,7 +15,7 @@ description = "This is meta description"
 author = "Jagadeesh Mummana"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Visakhapatnam, AP, IND"
 mobile = "+211234565523"
 email = "mummanajagadeesh@gmail.com"
 # contact form action
@@ -56,7 +56,7 @@ error_404_button = "Back To Home"
 # Preloader
 [preloader]
 enable = true
-preloader = "images/banner.png" # use jpg, png, svg or gif format.
+preloader = "images/rick.jpg" # use jpg, png, svg or gif format.
 
 # Banner
 [banner]
