@@ -1,0 +1,833 @@
+&lt;?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jagadeesh Mummana | Blogs</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>This is meta description</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/blog/categories/personal/" rel="self" type="application/rss+xml"/>
+
+    
+    <item>
+      <title>Why Should You Start Solving Puzzles? #PID1.0</title>
+      <link>http://localhost:1313/blog/blog/24-01-25/</link>
+      <pubDate>Fri, 24 Jan 2025 05:30:00 &#43;0000</pubDate>
+      <guid>http://localhost:1313/blog/blog/24-01-25/</guid>
+      <description>&lt;![CDATA[<!-- #### Puzzles: More Than Just Fun -->
+<p>Puzzles. Whether it’s a crossword, Sudoku, or that infuriating jigsaw piece that just won’t fit, puzzles have a unique way of grabbing our attention and holding it hostage. But have you ever wondered why solving puzzles feels so satisfying? Beyond the fun, puzzles sharpen your mind, boost your problem-solving skills, and, let’s be honest, give you bragging rights.</p>]]></description>
+      <content:encoded>&lt;![CDATA[<!-- #### Puzzles: More Than Just Fun -->
+<p>Puzzles. Whether it’s a crossword, Sudoku, or that infuriating jigsaw piece that just won’t fit, puzzles have a unique way of grabbing our attention and holding it hostage. But have you ever wondered why solving puzzles feels so satisfying? Beyond the fun, puzzles sharpen your mind, boost your problem-solving skills, and, let’s be honest, give you bragging rights.</p>
+<p>At their core, puzzles are challenges—a structured way to ask, “How do I figure this out?” And that question is more important than you might think. Life, in many ways, is a giant puzzle: decisions, strategies, unexpected twists. The better we get at solving little puzzles, the more equipped we are for the big ones.</p>
+<h4 id="why-solve-puzzles">Why Solve Puzzles?</h4>
+<p>Solving puzzles is like a gym session for your brain. They improve cognitive functions, boost memory, and enhance focus. But beyond brainpower, puzzles teach patience, perseverance, and the art of thinking outside the box—skills that are valuable in any field, from coding to cooking to simply navigating life.</p>
+<p>And let’s not forget the dopamine rush! Every solved puzzle is a small victory, and our brains love rewarding us for it. Who doesn’t like a mental high five?</p>
+<hr>
+<h4 id="coding-the-ultimate-mental-puzzle">Coding: The Ultimate Mental Puzzle</h4>
+<p>Now, let’s talk about coding—arguably one of the most satisfying puzzles you can tackle. Writing code is essentially solving a problem using logic, creativity, and a touch of wizardry. Each bug is a mini-puzzle, each feature a challenge to implement. And with coding puzzles, you’re not just solving; you’re building.</p>
+<p>For those who’ve wrestled with algorithms, debugging, or optimizing code, you’ll agree: coding is a puzzle that never gets old. The beauty lies in its versatility. Problems evolve, solutions change, and the learning never stops.</p>
+<hr>
+<h4 id="two-hands-one-brain-the-magic-of-physical-puzzles">Two Hands, One Brain: The Magic of Physical Puzzles</h4>
+<p>Now, let’s take this a step further: puzzles that involve not just your mind but your hands too. Think about the Rubik’s Cube, where both hemispheres of your brain are engaged. The left brain loves the logical sequences and patterns, while the right brain enjoys the spatial awareness and creativity. It’s like a full-brain workout.</p>
+<p>Physical puzzles improve hand-eye coordination, dexterity, and your ability to multitask. Plus, there’s something incredibly satisfying about manipulating an object and watching it transform under your hands. For me, working with physical puzzles has always been a humbling experience—you can’t brute force them; they demand focus and finesse.</p>
+<hr>
+<h4 id="the-rubiks-cube-a-personal-journey">The Rubik’s Cube: A Personal Journey</h4>
+<p>Ah, the Rubik’s Cube—a classic that’s equal parts intriguing and intimidating. My first encounter with it was… chaotic, to say the least. Scrambling it was easy, but solving it? Let’s just say it took me more than a few attempts (and some YouTube tutorials) to get it right.</p>
+<p>But once I did, it was magical. Solving a Rubik’s Cube is a dance of logic and intuition. It teaches you to think in layers, anticipate moves, and stay calm under pressure. And honestly, it’s just plain cool to whip one out and solve it in front of friends.</p>
+<hr>
+<h4 id="puzzles-meet-tech-the-rubiks-cube-solver">Puzzles Meet Tech: The Rubik’s Cube Solver</h4>
+<p>Now imagine combining the worlds of physical and digital puzzles. That’s exactly what we’ll be doing in the <strong>Rubik’s Cube Solver</strong> series. This project is a blend of hardware and software challenges—a perfect playground for anyone who loves puzzles.</p>
+<p>The idea is to build a system that can solve a Rubik’s Cube autonomously. From understanding the cube’s mechanics to writing algorithms that optimize solutions, this project is as rewarding as it is complex. And here’s the best part: you’ll get to learn and build alongside me.</p>
+<p><em>Note</em>: This project is still in its simulation phase. There are optimizations to be made, and the hardware implementation is yet to be completed. But that’s the beauty of this series—we’ll question every step, learn from every mistake, and inch closer to the solution together.</p>
+<hr>
+<h4 id="introducing-the-pid-series">Introducing the PID Series</h4>
+<p>The Rubik’s Cube Solver is just the beginning. The <strong>PID: Project IN Detail</strong> series is a deep dive into my projects, where I share insights, challenges, and breakthroughs. There’s a lot more to come, and I’m thrilled to have you along for the ride.</p>
+<p>In the next few posts, we’ll start with the basics of solving a Rubik’s Cube—the foundational techniques that will help you tackle the puzzle manually. From there, we’ll explore how computers can do it better, faster, and with optimizations we can only dream of.</p>
+<hr>
+<h4 id="why-wait-lets-get-started">Why Wait? Let’s Get Started!</h4>
+<p>Puzzles are more than a pastime; they’re a way of thinking, learning, and growing. Whether you’re a coding enthusiast, a Rubik’s Cube aficionado, or just someone who loves a good challenge, this series has something for you.</p>
+<p>So grab a cube, roll up your sleeves, and let’s dive into the fascinating world of puzzles—one twist at a time.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>My RosConIN&amp;#39;24 Experience</title>
+      <link>http://localhost:1313/blog/blog/17-01-25/</link>
+      <pubDate>Fri, 17 Jan 2025 05:30:00 &#43;0000</pubDate>
+      <guid>http://localhost:1313/blog/blog/17-01-25/</guid>
+      <description>&lt;![CDATA[<p>Last year, I missed ROSCon India due to exams and, honestly, had no idea what I was missing out on. This year, though, I made it, and it turned out to be more than I ever imagined. The two days I spent at ROSConIN'24 were nothing short of transformative, and this blog itself is a result of the inspiration I drew from the event.</p>]]></description>
+      <content:encoded>&lt;![CDATA[<p>Last year, I missed ROSCon India due to exams and, honestly, had no idea what I was missing out on. This year, though, I made it, and it turned out to be more than I ever imagined. The two days I spent at ROSConIN'24 were nothing short of transformative, and this blog itself is a result of the inspiration I drew from the event.</p>
+<h3 id="setting-the-stage">Setting the Stage</h3>
+<p>The second edition of ROSCon India, following the overwhelming success of last year’s event with 750+ attendees, was hosted by ARTPARK at the Indian Institute of Science (IISc), Bangalore. This event brought together developers, hobbyists, researchers, and industry professionals to share, learn, and network over all things ROS (Robot Operating System).</p>
+<p>What makes ROSCon India special is its resemblance to the international ROSCon, with a local flavor that emphasizes India’s growing influence in robotics and automation. It was heartwarming to see support from Open Robotics and the enthusiastic efforts of Acceleration Robotics, RigBetel Labs, and ARTPARK in organizing such an impactful gathering.</p>
+<h3 id="day-0-workshops-galore">Day 0: Workshops Galore</h3>
+<p>The event kicked off with Workshop Day on December 4th. We could choose one out of three workshops, and I opted for the third one:</p>
+<ol>
+<li>
+<p><strong>Workshop 1: Next-Gen Robotics Development with NVIDIA ISAAC, GenAI, and ROS</strong> – Organized by NVIDIA, this workshop offered a comprehensive dive into cutting-edge robotics development. Though I couldn’t attend it, the buzz from the attendees made it clear how enriching it was.</p>
+</li>
+<li>
+<p><strong>Workshop 2: Leveraging Zenoh as a ROS 2 Middleware Layer</strong> – Conducted by Zettascale Technology, this session explored Zenoh as an innovative middleware layer for ROS 2. It intrigued many participants and opened up discussions on its potential.</p>
+</li>
+<li>
+<p><strong>Workshop 3: ROS 2 Controls, Navigation, and Advanced Communication Study</strong> – Organized by ARTPARK, this was my pick! A deep dive into ROS 2 controls, navigation, and communication felt perfectly aligned with my interests. The hands-on experience and insights I gained were invaluable.</p>
+</li>
+</ol>
+<h3 id="day-1-a-conference-to-remember">Day 1: A Conference to Remember</h3>
+<p>December 5th began with registrations and a warm welcome address by the organizers, setting an enthusiastic tone. Some highlights from the day included:</p>
+<ul>
+<li><strong>Keynotes</strong>: Geoffrey Biggs (CTO, Open Robotics) and Yadunund Vijay (Intrinsic) discussed the state of Open Robotics in 2024, followed by Jigar Halani from NVIDIA sharing insights on robotics development.</li>
+<li><strong>Inspiring Talks</strong>: From Yuvraj Mehta’s session on RoboGPT to Sarvesh Kumar Malladi’s insights on Universal Robots’ ROS2 features, each talk added depth to the learning experience.</li>
+<li><strong>Industry Focus</strong>: Anish Dalvi from TCS delved into automotive protocols, while Somdeb Saha highlighted retail automation with ROS. Both sessions demonstrated the vast industrial applications of ROS.</li>
+<li><strong>Panel Discussion</strong>: The day ended with an engaging panel on cracking the product-market fit in robotics, featuring founders and investors sharing valuable insights.</li>
+</ul>
+<h3 id="day-2-deep-dives-and-future-directions">Day 2: Deep Dives and Future Directions</h3>
+<p>December 6th brought more enlightening sessions, including:</p>
+<ul>
+<li><strong>Keynote by Angelo Corsaro (ZettaScale Technology)</strong>: An in-depth look at Zenoh as an alternative middleware layer for ROS 2.</li>
+<li><strong>Technical Sessions</strong>: From Ajay Sethi and Prateek Nagras introducing the Robotics Application Stack to Nidhi Choudhary’s integration of physics-based neural networks with Gazebo, the variety of topics covered was astounding.</li>
+<li><strong>Fireside Chat</strong>: The event concluded with a thought-provoking discussion on the future of ROS, featuring Geoffrey Biggs, Yadunund Vijay, and Angelo Corsaro.</li>
+</ul>
+<h3 id="networking-and-personal-highlights">Networking and Personal Highlights</h3>
+<p>One of the most fulfilling aspects of ROSConIN’24 was the chance to meet incredible people. I connected with alumni from my college, including Aryan Jaguste and Jatin Vera, whose experience in robotics left me inspired. I also met many other professionals who have been in this field for years, generously sharing their knowledge and encouraging me to keep learning and experimenting.</p>
+<p>It was this vibrant exchange of ideas and stories that inspired me to start this blog. ROSConIN’24 wasn’t just a conference; it was a catalyst for my growth in the robotics domain.</p>
+<h3 id="a-big-shoutout">A Big Shoutout</h3>
+<p>A massive thanks to all the companies and individuals who made this event possible, including Acceleration Robotics, RigBetel Labs, ARTPARK, NVIDIA, Zettascale Technology, Tata Consultancy Services, Universal Robots, and many others like Autodiscovery, Botsoverkill, Bullwork, Golain, I-Hub Jodhpur, IISc, Kikobot, Nawe, Neuralzome, Thundroids, Vicharak, Virya, and xTerra.</p>
+<h3 id="closing-thoughts">Closing Thoughts</h3>
+<p>As I reflect on my experience, I can’t help but marvel at how much this event has broadened my horizons. It’s not just about the technical knowledge but also the sense of community and the shared passion for innovation. If you’re even remotely interested in robotics or automation, attending ROSConIN should be a no-brainer. Who knows? You might walk away with a new project idea, a mentor, or even the inspiration to start a blog, just like I did!</p>
+<p>As if ROSConIN’24 wasn’t enough to fill my plate with excitement, the very next day, I found myself at the GNOME Asia Summit in Bangalore. It was an incredible opportunity to connect with open-source contributors and Linux enthusiasts. The vibe there was equally inspiring, and I came away with even more appreciation for the open-source community.</p>
+<p>Speaking of Bangalore, let’s not forget the city&rsquo;s legendary traffic. I’ll admit, navigating those jam-packed streets tested my patience (and Google Maps’ sanity), but the morning chill and the sheer energy of being in India’s tech hub more than made up for it. If you’ve never tried squeezing in two major conferences in one trip, let me tell you—it’s like a crash course in networking and caffeine dependency.</p>
+<p>Meeting passionate individuals at both events has only fueled my curiosity to dive deeper into robotics and open source. In fact, it was during ROSConIN’24 that I felt inspired to start this tech blog, channeling my excitement and insights into something more tangible. And hey, if I can navigate Bangalore traffic and two back-to-back conferences, I’m pretty sure I can handle just about anything life throws my way!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Why Blog in 2025? (And How to Get Started)</title>
+      <link>http://localhost:1313/blog/blog/10-01-25/</link>
+      <pubDate>Fri, 10 Jan 2025 05:30:00 &#43;0000</pubDate>
+      <guid>http://localhost:1313/blog/blog/10-01-25/</guid>
+      <description>&lt;![CDATA[<!-- ##### **Why Blog in 2025? (And How to Get Started)** 🚀   -->
+<p>In 2025, with the internet brimming with TikToks, reels, and AI-generated articles, you might wonder—<strong>is blogging still worth it?</strong><br>
+The answer is a resounding <strong>YES</strong>, and here’s why.</p>]]></description>
+      <content:encoded>&lt;![CDATA[<!-- ##### **Why Blog in 2025? (And How to Get Started)** 🚀   -->
+<p>In 2025, with the internet brimming with TikToks, reels, and AI-generated articles, you might wonder—<strong>is blogging still worth it?</strong><br>
+The answer is a resounding <strong>YES</strong>, and here’s why.</p>
+<hr>
+<h5 id="why-blog-in-2025"><strong>Why Blog in 2025?</strong></h5>
+<h6 id="1-share-your-unique-perspective"><strong>1. Share Your Unique Perspective</strong></h6>
+<p>In a world of AI-generated content, <strong>your personal voice matters more than ever</strong>. AI might generate the basics, but <strong>stories, experiences, and personal insights</strong> are uniquely human. Whether you’re building your first robot, sharing parenting tips, or learning a new language, your journey can inspire others.</p>
+<blockquote>
+<p>Think about it: How many times have you Googled a problem, stumbled upon a blog, and found exactly what you needed? That could be you helping someone else.</p>
+</blockquote>
+<hr>
+<h6 id="2-build-your-digital-legacy"><strong>2. Build Your Digital Legacy</strong></h6>
+<p>Your blog is <strong>your corner of the internet</strong>—a space to leave your mark. Unlike fleeting social media posts, blogs are evergreen, searchable, and <strong>build a record of your growth</strong>. For developers, it can be a portfolio of your work; for creatives, it’s a gallery of your creations.</p>
+<blockquote>
+<p>I started my blog to document my tech projects, but I realized it’s also helping me keep track of my ideas, progress, and experiments. Plus, I’ve already met people who share the same passions—thanks to this little space!</p>
+</blockquote>
+<hr>
+<h6 id="3-learn-as-you-share"><strong>3. Learn as You Share</strong></h6>
+<p>Writing is an incredible teacher. To explain something clearly, you need to truly understand it yourself.</p>
+<ul>
+<li>Developers often blog about solutions to bugs or coding techniques, which not only helps others but reinforces their own knowledge.</li>
+<li>For non-tech folks, writing about personal projects—whether it’s DIY, cooking, or fitness—gives clarity and keeps you motivated.</li>
+</ul>
+<blockquote>
+<p><strong>Pro Tip:</strong> Blogging can make you a better problem-solver. Breaking down problems into digestible steps is the essence of both writing and coding.</p>
+</blockquote>
+<hr>
+<h6 id="4-build-connections-and-opportunities"><strong>4. Build Connections and Opportunities</strong></h6>
+<p>Blogging isn’t just about putting your thoughts into words; it’s about <strong>starting conversations</strong>. Your blog can:</p>
+<ul>
+<li>Attract collaborators who resonate with your ideas.</li>
+<li>Impress potential employers or clients by showcasing your expertise.</li>
+<li>Connect you with a like-minded community.</li>
+</ul>
+<blockquote>
+<p>Think of it as networking without the awkward handshakes.</p>
+</blockquote>
+<hr>
+<h6 id="5-stay-relevant-in-the-ai-era"><strong>5. Stay Relevant in the AI Era</strong></h6>
+<p>AI is great for automating tasks, but <strong>creativity, originality, and storytelling</strong>? That’s all you. A blog lets you flex those creative muscles and prove you’re not just keeping up with the times—you’re shaping them.</p>
+<hr>
+<h6 id="why-students-should-start-blogging-"><strong>Why Students Should Start Blogging</strong> 🎓</h6>
+<p>As a student, blogging can be a game-changer for your personal and professional growth. Here’s why:</p>
+<ol>
+<li>
+<p><strong>Showcase Your Skills</strong>:<br>
+Your blog can act as a dynamic portfolio. Whether it’s coding projects, research papers, or even creative writing, it’s a platform to demonstrate your expertise and passion. Employers and professors love seeing initiative.</p>
+</li>
+<li>
+<p><strong>Document Your Learning</strong>:<br>
+Writing about what you’re learning—whether it’s a tough algorithm, a robotics project, or study hacks—helps reinforce your understanding and creates a resource for others.</p>
+</li>
+<li>
+<p><strong>Stand Out</strong>:<br>
+In a competitive world, a well-maintained blog sets you apart. It shows that you’re not just a passive learner but someone who actively contributes to the community.</p>
+</li>
+<li>
+<p><strong>Build Connections</strong>:<br>
+Blogging opens doors to collaborations, internships, and mentorships. Sharing your work publicly can attract like-minded peers, professors, or even recruiters.</p>
+</li>
+</ol>
+<blockquote>
+<p><strong>Pro Tip for Students</strong>: Start small. Write about a project or concept you recently worked on in class—it’s a great way to begin!</p>
+</blockquote>
+<hr>
+<h5 id="how-to-start-blogging-in-2025"><strong>How to Start Blogging in 2025</strong></h5>
+<p>If all this has convinced you, let’s talk about how to get started! Whether you’re a dev documenting code or someone sharing life hacks, blogging has never been easier.</p>
+<hr>
+<h6 id="1-choose-your-purpose"><strong>1. Choose Your Purpose</strong></h6>
+<p>Ask yourself: <strong>Why do I want to blog?</strong></p>
+<ul>
+<li>Is it to document your journey (like me)?</li>
+<li>Share your expertise?</li>
+<li>Build a personal brand?</li>
+<li>Just for fun?</li>
+</ul>
+<blockquote>
+<p>Defining your purpose will help you stay motivated and give your blog a clear focus.</p>
+</blockquote>
+<hr>
+<h6 id="2-pick-the-right-platform"><strong>2. Pick the Right Platform</strong></h6>
+<p>Here are a few options to suit different needs:</p>
+<ul>
+<li><strong>Techies</strong>: Use GitHub Pages for free hosting or platforms like Jekyll/Hugo for custom setups.</li>
+<li><strong>Beginners</strong>: Try WordPress or Ghost—they’re user-friendly and have tons of templates.</li>
+<li><strong>Minimalists</strong>: Substack or Medium are great for simple, distraction-free writing.</li>
+</ul>
+<blockquote>
+<p><strong>What I Use</strong>: I opted for GitHub Pages because I love having full control over my blog’s look and feel.</p>
+</blockquote>
+<hr>
+<h6 id="3-write-what-you-know-and-love"><strong>3. Write What You Know (And Love)</strong></h6>
+<p>Find your niche. You don’t need to be an expert—just share your journey as you learn.</p>
+<ul>
+<li>Devs: Write about side projects, tutorials, or debugging solutions.</li>
+<li>Non-devs: Document hobbies, productivity hacks, or personal experiences.</li>
+</ul>
+<blockquote>
+<p>Remember: What’s obvious to you might be groundbreaking to someone else.</p>
+</blockquote>
+<hr>
+<h6 id="4-keep-it-simple-at-first"><strong>4. Keep It Simple (At First)</strong></h6>
+<p>Don’t overcomplicate it. Your first post can be:</p>
+<ul>
+<li>An introduction to who you are.</li>
+<li>A story about a project you worked on.</li>
+<li>A simple “lesson learned” post.</li>
+</ul>
+<blockquote>
+<p>It’s okay if your first post isn’t perfect—it’s better to start and improve as you go.</p>
+</blockquote>
+<hr>
+<h6 id="5-leverage-ai-to-help-you"><strong>5. Leverage AI to Help You</strong></h6>
+<p>In 2025, AI tools can make blogging easier:</p>
+<ul>
+<li>Use <strong>ChatGPT</strong> for brainstorming post ideas.</li>
+<li><strong>Grammarly</strong> can polish your grammar.</li>
+<li>Tools like <strong>Jasper AI</strong> can even generate draft content.</li>
+</ul>
+<p>But remember: <strong>your voice is the star.</strong> AI can assist, but authenticity is irreplaceable.</p>
+<hr>
+<h6 id="6-promote-your-blog"><strong>6. Promote Your Blog</strong></h6>
+<p>Once your blog is live, share it!</p>
+<ul>
+<li>Post about it on LinkedIn, Instagram, or Twitter.</li>
+<li>Join communities (Reddit, Discord, forums) related to your niche.</li>
+<li>Collaborate with others by guest-posting or linking to their work.</li>
+</ul>
+<blockquote>
+<p>If you’re consistent, people will notice.</p>
+</blockquote>
+<hr>
+<h6 id="7-embrace-the-process"><strong>7. Embrace the Process</strong></h6>
+<p>Blogging is a journey. Don’t stress about being perfect—just keep writing, experimenting, and learning. Tools like <strong>Google Analytics</strong> can show you what’s working and help you refine your style.</p>
+<hr>
+<h5 id="final-thoughts"><strong>Final Thoughts</strong></h5>
+<p>Blogging in 2025 is about more than just writing—it’s about <strong>sharing your voice, building connections, and leaving a legacy</strong>. Whether you’re a coder, a hobbyist, or someone with a passion to share, there’s never been a better time to start.</p>
+<blockquote>
+<p><strong>Your Blog, Your Rules:</strong> It doesn’t have to be fancy. It just has to be <strong>you.</strong></p>
+</blockquote>
+<hr>
+<h5 id="whats-next"><strong>What’s Next?</strong></h5>
+<p>If you’re thinking of starting a blog, go for it! Your ideas are worth sharing. Feel free to reach out if you need help setting things up or brainstorming ideas—I’d love to hear from you.</p>
+<p>Ready to take the plunge? Hit that <strong>&ldquo;New Blog&rdquo;</strong> button and let the world hear your voice!</p>
+<hr>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Hello World!!</title>
+      <link>http://localhost:1313/blog/blog/03-01-25/</link>
+      <pubDate>Fri, 03 Jan 2025 05:30:00 &#43;0000</pubDate>
+      <guid>http://localhost:1313/blog/blog/03-01-25/</guid>
+      <description>&lt;![CDATA[<!-- ##### Welcome to My Blog! 🚀   -->
+<p>Hey there! 👋 I’m <strong><em>Jagadeesh Mummana</em></strong>, and this is my little corner of the internet where I’ll be sharing all things robotics, AI, and the random tech experiments I get into.</p>]]></description>
+      <content:encoded>&lt;![CDATA[<!-- ##### Welcome to My Blog! 🚀   -->
+<p>Hey there! 👋 I’m <strong><em>Jagadeesh Mummana</em></strong>, and this is my little corner of the internet where I’ll be sharing all things robotics, AI, and the random tech experiments I get into.</p>
+<p>If you’re into building cool stuff, tinkering with microcontrollers, or just figuring out how things work, you’re in the right place. I’ve been into this world of electronics and automation for a while now, and I thought it was about time I started documenting the chaos.</p>
+<hr>
+<h5 id="why-start-a-blog">Why Start a Blog?</h5>
+<p>Honestly? Because I realized I’ve been building all these projects, learning so much along the way, but barely writing any of it down. Most of my work is scattered across random folders on my laptop, and that’s not helping anyone—not even me.</p>
+<p>So, this blog is my way of organizing my thoughts, sharing what I know, and hopefully connecting with people who are just as passionate about tech as I am. Plus, I figured committing to a weekly blog post (every <strong><em>Friday</em></strong>, to keep myself accountable) might force me to stay consistent.</p>
+<blockquote>
+<p><strong>My motto?</strong> &ldquo;Knowledge grows best when shared.&rdquo;</p>
+</blockquote>
+<hr>
+<h5 id="who-am-i">Who Am I?</h5>
+<p>I’m currently a sophomore at <strong>NIT Calicut</strong>, studying <strong>Electronics and Communication Engineering</strong>, with a minor in <strong>Robotics and Automation</strong>.</p>
+<p>If I had to describe myself, I’d say I’m someone who loves building things, breaking things (not always on purpose!), and figuring out how stuff works. My favorite projects are the ones where software meets hardware—it’s where the real magic happens.</p>
+<p>Oh, and quick confession: I’m <em>that guy</em> who always has a million unfinished projects because I keep jumping to the next shiny idea. Maybe this blog will help me finish more of them. Fingers crossed.</p>
+<p>And yeah, like every robotics enthusiast, I’ve had my fair share of sparks and fried circuits along the way. (RIP to my first Arduino board—I barely knew you.</p>
+<hr>
+<h5 id="what-am-i-up-to-">What Am I Up To? 🔍</h5>
+<p>Here are a few things I’ve been working on:</p>
+<ol>
+<li><strong><a href="https://github.com/Mummanajagadeesh/PR057H371C4RM"
+
+
+
+
+ target="_blank"
+ 
+
+
+>PR057H371C4RM</a></strong> – <em>Prosthetic Arm</em><br>
+It’s a prosthetic arm that tries to mimic finger movements. Basically, it uses servos to pull strings (kind of like how tendons work in real life).</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+
+
+  
+  
+    
+    
+      
+    
+
+    
+
+
+    
+    
+
+
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+    
+      
+      
+
+      
+
+
+      
+
+      
+      
+        
+        
+        
+      
+      
+      
+      
+
+    
+    
+
+    
+    
+      <figure
+        class="img-center"
+        role="group"
+        aria-describedby="caption-Prosthetic Arm Prototype">
+      
+          <img
+            title=""
+            loading="lazy"
+            decoding="async"
+            class="img "
+            width="400"
+            height="223"
+            src="/blog/images/post/hw/prosarm_hu7226590166778580181.webp"
+            alt="alter-text"
+            onerror="this.onerror='null';this.src='\/blog\/images\/post\/hw\/prosarm_hu11805161075647566853.png'" />
+      
+        <figcaption id="caption-Prosthetic Arm Prototype" class="caption-Prosthetic-Arm-Prototype">
+          Prosthetic Arm Prototype
+        </figcaption>
+      </figure>
+    
+
+  
+  
+
+
+
+
+
+
+  <script>
+    window.addEventListener("load", (e) => {
+      const lightbox = GLightbox();
+    });
+  </script>
+
+
+<ol start="2">
+<li><strong><a href="https://github.com/Mummanajagadeesh/V-RU81K5CU83"
+
+
+
+
+ target="_blank"
+ 
+
+
+>V-RU81K5CU83</a></strong> (<em>part of <a href="https://github.com/Mummanajagadeesh/RU83C"
+
+
+
+
+ target="_blank"
+ 
+
+
+>RU83C</a></em>) – <em>Virtual Rubik&rsquo;s Cube Simulator</em><br>
+A 3D Rubik’s Cube simulator I built in Unity. It uses the Kociemba Solver to spit out solutions for whatever cube state you throw at it.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+
+
+  
+  
+    
+    
+      
+    
+
+    
+
+
+    
+    
+
+
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+    
+      
+      
+
+      
+
+
+      
+
+      
+      
+        
+        
+        
+      
+      
+      
+      
+
+    
+    
+
+    
+    
+      <figure
+        class="img-center"
+        role="group"
+        aria-describedby="caption-Virtual Rubik&rsquo;s Cube Simulator">
+      
+          <img
+            title=""
+            loading="lazy"
+            decoding="async"
+            class="img "
+            width="400"
+            height="227"
+            src="/blog/images/post/hw/vrubikscube_hu11888432296257314190.webp"
+            alt="alter-text"
+            onerror="this.onerror='null';this.src='\/blog\/images\/post\/hw\/vrubikscube_hu12202558415172802019.png'" />
+      
+        <figcaption id="caption-Virtual Rubik&rsquo;s Cube Simulator" class="caption-Virtual-Rubiks-Cube-Simulator">
+          Virtual Rubik&rsquo;s Cube Simulator
+        </figcaption>
+      </figure>
+    
+
+  
+  
+
+
+
+
+
+
+
+<ol start="3">
+<li><strong><a href="https://github.com/Mummanajagadeesh/ImProVe"
+
+
+
+
+ target="_blank"
+ 
+
+
+>ImProVe</a></strong> – <em>Image Processing Using Verilog</em><br>
+This one’s about using Verilog for basic image processing—stuff like edge detection and geometric transformations. It’s been a fun mix of hardware and software. Here are a couple of spin-offs from this project:</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+
+
+  
+  
+    
+    
+      
+    
+
+    
+
+
+    
+    
+
+
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+    
+      
+      
+
+      
+
+
+      
+
+      
+      
+        
+        
+        
+      
+      
+      
+      
+
+    
+    
+
+    
+    
+      <figure
+        class="img-center"
+        role="group"
+        aria-describedby="caption-Label Detection Using Prewitt Operator">
+      
+          <img
+            title=""
+            loading="lazy"
+            decoding="async"
+            class="img "
+            width="400"
+            height="284"
+            src="/blog/images/post/hw/label-detec_hu11275800911051597819.webp"
+            alt="alter-text"
+            onerror="this.onerror='null';this.src='\/blog\/images\/post\/hw\/label-detec_hu11998924455749946739.png'" />
+      
+        <figcaption id="caption-Label Detection Using Prewitt Operator" class="caption-Label-Detection-Using-Prewitt-Operator">
+          Label Detection Using Prewitt Operator
+        </figcaption>
+      </figure>
+    
+
+  
+  
+
+
+
+
+
+
+
+<ul>
+<li>
+<p><strong>Label Detection</strong>:<br>
+Using Prewitt and Canny edge detectors to find label boundaries. The idea is to detect sudden intensity changes and slap a bounding box over them. Python helps put it all together in the end.</p>
+</li>
+<li>
+<p><strong>Document Scanner</strong> (<em>In Progress</em>):<br>
+Building off the label detection thing, this one’s about finding the four corners of a document and mapping it to a rectangle. Eventually, I want to throw OCR into the mix to extract text too.</p>
+</li>
+</ul>
+<hr>
+<hr>
+<blockquote>
+<p><strong>Heads-up:</strong> Due to some constraints, some repositories are currently private. If you’re curious about any of them, feel free to reach out—I’d be happy to share what I can!</p>
+</blockquote>
+<hr>
+<hr>
+<h5 id="whats-next">What’s Next?</h5>
+<p>Moving forward, I’ll be diving deeper into these projects and breaking them down into tutorials, lessons, and maybe even some “what not to do” moments (because let’s be real, I’ve had my fair share of mistakes).</p>
+<p>If you’ve got an idea for something I should write about, let me know! I’m always up for exploring new ideas and experiments.
+<strong><a href="#connect-with-me-"
+
+
+
+ 
+
+
+>LinkedIn</a></strong></p>
+<hr>
+<h5 id="lets-collaborate-">Let’s Collaborate 🤝</h5>
+<p>If anything here caught your eye, or if you’ve got a project in mind you’d like to team up on, hit me up. Collaboration is one of the best ways to learn, and I’d love to hear what you’re working on too.</p>
+<hr>
+<h5 id="connect-with-me-">Connect With Me 🌐</h5>
+<p>Here’s where you can find me:</p>
+<ul>
+<li>🌌 <strong>Portfolio</strong>: <a href="https://mummanajagadeesh.github.io"
+
+
+
+
+ target="_blank"
+ 
+
+
+>mummanajagadeesh.github.io</a></li>
+<li>💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/jagadeeeshmummana"
+
+
+
+
+ target="_blank"
+ 
+
+
+>Jagadeesh Mummana</a></li>
+<li>🔧 <strong>GitHub</strong>: <a href="https://github.com/Mummanajagadeesh"
+
+
+
+
+ target="_blank"
+ 
+
+
+>Mummanajagadeesh</a></li>
+<li>📸 <strong>Instagram</strong>: <a href="https://www.instagram.com/jagadeesh__97__"
+
+
+
+
+ target="_blank"
+ 
+
+
+>@jagadeesh__97__</a></li>
+</ul>
+<hr>
+<p>So yeah, that’s it for now. Let’s see where this blog goes. Thanks for reading, and catch you next Friday! 😎</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>About ME</title>
+      <link>http://localhost:1313/blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <guid>http://localhost:1313/blog/about/</guid>
+      <description>&lt;![CDATA[<p>Hey, I&rsquo;m Jagadeesh Mummana. I love all things robotics and AI, from the tiniest microcontroller to building systems that bring ideas to life. As a sophomore at NIT Calicut, studying Electronics and Communication Engineering with a minor in Robotics and Automation, I’m constantly exploring the boundaries of what technology can do.</p>]]></description>
+      <content:encoded>&lt;![CDATA[<p>Hey, I&rsquo;m Jagadeesh Mummana. I love all things robotics and AI, from the tiniest microcontroller to building systems that bring ideas to life. As a sophomore at NIT Calicut, studying Electronics and Communication Engineering with a minor in Robotics and Automation, I’m constantly exploring the boundaries of what technology can do.</p>
+<p>This blog is where I share what I’ve learned, the challenges I’ve faced, and the projects I’m working on. Whether it’s breaking down a tricky concept, documenting a hands-on build, or just talking about something cool in tech, my goal is to make it relatable and useful.</p>
+<p>I believe the best way to grow is by sharing what you know. So, stick around—there’s always something new to learn here!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Let&amp;#39;s, Talk About You</title>
+      <link>http://localhost:1313/blog/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <guid>http://localhost:1313/blog/contact/</guid>
+      <description>&lt;![CDATA[]]></description>
+      <content:encoded>&lt;![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/blog/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <guid>http://localhost:1313/blog/privacy-policy/</guid>
+      <description>&lt;![CDATA[<h3 id="privacy-policy-built-to-protect-like-a-robot-shielding-its-creator"><strong>Privacy Policy: Built to Protect, Like a Robot Shielding Its Creator</strong></h3>
+<p>Welcome to the privacy policy of <strong>[Your Blog Name]</strong>, where we promise to treat your data with the precision of a PID controller, the elegance of an optimized neural network, and the care of a finely tuned robotic arm. Here’s the TL;DR version: we’re nerds who respect your privacy, so you’re in safe hands (or robot claws).</p>]]></description>
+      <content:encoded>&lt;![CDATA[<h3 id="privacy-policy-built-to-protect-like-a-robot-shielding-its-creator"><strong>Privacy Policy: Built to Protect, Like a Robot Shielding Its Creator</strong></h3>
+<p>Welcome to the privacy policy of <strong>[Your Blog Name]</strong>, where we promise to treat your data with the precision of a PID controller, the elegance of an optimized neural network, and the care of a finely tuned robotic arm. Here’s the TL;DR version: we’re nerds who respect your privacy, so you’re in safe hands (or robot claws).</p>
+<hr>
+<h4 id="1-what-we-collect"><strong>1. What We Collect</strong></h4>
+<ul>
+<li>Your <strong>email address</strong>, so we can send you our newsletter filled with robotics projects, AI musings, electronic experiments, and bad puns about computer vision.</li>
+<li>That’s it. No biometric scans, no secret ML model training on your cat photos, and no “accidental” collection of your browser history.</li>
+</ul>
+<hr>
+<h4 id="2-how-we-use-your-data"><strong>2. How We Use Your Data</strong></h4>
+<p>Your email address will only be used to:</p>
+<ul>
+<li>Deliver the most cutting-edge, quirky, and mildly chaotic content about robotics, AI, electronics, and computer vision.</li>
+<li>Occasionally remind you that robots are cool and cats are taking over the internet with better edge detection algorithms.</li>
+</ul>
+<p>We don’t:</p>
+<ul>
+<li>Sell your data. (Not even to fund a robot uprising. We promise.)</li>
+<li>Train rogue AIs using your email metadata.</li>
+</ul>
+<hr>
+<h4 id="3-cookies-not-the-edible-kind"><strong>3. Cookies (Not the Edible Kind)</strong></h4>
+<p>Yes, our website uses cookies. Think of them as tiny, helpful bots working behind the scenes to optimize your browsing experience. They’re harmless, but if you want to disable them, that’s totally cool. (Though our robot overlords might shed a tiny, virtual tear.)</p>
+<hr>
+<h4 id="4-sharing-your-data"><strong>4. Sharing Your Data</strong></h4>
+<p>We don’t share your data unless:</p>
+<ul>
+<li>The law demands it. (If we’re subpoenaed by Skynet, we’ll resist.)</li>
+<li>You explicitly give us permission.</li>
+<li>It’s to debug the Matrix, in which case, you’ll probably be too busy dodging bullets to care.</li>
+</ul>
+<hr>
+<h4 id="5-how-we-protect-your-data"><strong>5. How We Protect Your Data</strong></h4>
+<p>We protect your data like a robot guards its creator in a sci-fi movie. With firewalls, encryption, and a healthy dose of paranoia, we make sure no rogue script or nosy bot breaches our systems.</p>
+<hr>
+<h4 id="6-your-rights"><strong>6. Your Rights</strong></h4>
+<ul>
+<li>You can unsubscribe anytime by clicking the link at the bottom of any email. No judgment, no passive-aggressive “Are you sure?” pop-ups.</li>
+<li>Feel free to ask us to delete your data, and we’ll erase it faster than an AI forgetting irrelevant training data.</li>
+</ul>
+<hr>
+<h4 id="7-changes-to-this-policy"><strong>7. Changes to This Policy</strong></h4>
+<p>If we tweak this policy, we’ll let you know through an email with a subject line like, “We Updated Our Privacy Policy, But It’s Not as Boring as It Sounds.”</p>
+<hr>
+<h4 id="8-contact-us"><strong>8. Contact Us</strong></h4>
+<p>Questions? Concerns? Need help debugging a robot arm that’s gone rogue? Email us at <strong>[Your Email Address]</strong>. We’re always happy to chat about your projects, privacy concerns, or the finer points of convolutional neural networks.</p>
+<hr>
+<h3 id="tldr"><strong>TL;DR:</strong></h3>
+<p>Your email is safe with us. We don’t sell it, share it, or use it to build a sentient robot army. Just good ol’ nerdy newsletters about robotics, AI, electronics, and computer vision, sent straight to your inbox.</p>
+<p>Stay curious, stay nerdy, and may your robots never hit the wrong waypoints!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Search Result</title>
+      <link>http://localhost:1313/blog/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <guid>http://localhost:1313/blog/search/</guid>
+      <description>&lt;![CDATA[]]></description>
+      <content:encoded>&lt;![CDATA[]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
